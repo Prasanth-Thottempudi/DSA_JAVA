@@ -22,14 +22,10 @@ public class P2RecursionPractiseQuestions {
     f(0)
     1
     2
-
-
-
-
  */
     }
     public static void main(String[] args) {
 
-        fun1(3);
+        fun(3);
     }
 }

@@ -12,7 +12,7 @@ public class P12GenerateSubSets {
 
     }
     public static void main(String[] args) {
-        genSubSets("ABC","",0);
+        genSubSets("AB","",0);
 
 
     }
